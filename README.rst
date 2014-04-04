@@ -13,3 +13,4 @@ Usage:
     vagrant up
 
 Tested with vagrant 1.4 and 1.5
+The Vagrantfile uses currently a debian 7.4.0 box but you can also use every other box because the salt provisioner is responsible to install salt.
